@@ -1,16 +1,16 @@
-# 🏠 AutoCAD House Plan
+AutoCAD House Plan
 
 This repository contains a residential floor plan created using AutoCAD.
 
-## 📄 Project Files
+Project Files
 
 - House Plan (PDF)
 
-## 🛠 Software
+Software
 
 - AutoCAD
 
-## 📋 Contents
+Contents
 
 - Technical floor plan
 - Room dimensions
